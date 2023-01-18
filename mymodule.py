@@ -15,3 +15,8 @@ def add(a,b):
     This function returns the sum of the given numbers
     """
     return a + b
+def half(number):
+    """
+    This function returns the number divided by two
+    """
+    return number / 2
